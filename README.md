@@ -6,7 +6,7 @@ Technopark,Kazhakootam
 
 Currently doing backend development -Java Springboot
 
-Mail 📧: sreedev@simplogics.com
+📧: sreedev@simplogics.com
 
 <!---
 sreedev-ts/sreedev-ts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
