@@ -1,7 +1,10 @@
 # This is Sreedev.
 
 Software Engineer Trainee Simplogics
+
 Technopark,Kazhakootam
+
+Currently doing backend development -Java Springboot
 
 Mail : sreedev@simplogics.com
 
