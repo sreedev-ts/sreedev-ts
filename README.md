@@ -1,8 +1,8 @@
 # This is Sreedev.
 
-Software Engineer Trainee Simplogics
+👨🏼‍💻 :Software Engineer Trainee Simplogics
 
-Technopark,Kazhakootam
+🏢 :Technopark,Kazhakootam
 
 Currently doing backend development -Java Springboot
 
