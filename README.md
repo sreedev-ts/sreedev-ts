@@ -1,10 +1,10 @@
 # This is Sreedev.
 
-👨🏼‍💻 Software Engineer Trainee Simplogics
+👨🏼‍💻 Software Engineer Simplogics
 
 🏢 Technopark,Kazhakootam
 
-Currently doing backend development -Java Springboot
+Currently doing backend development - NodeJS
 
 📧 sreedev@simplogics.com
 
